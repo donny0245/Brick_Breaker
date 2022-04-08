@@ -9,3 +9,5 @@ what level difficulty they want to play in the console. The board for that
 difficulty will then appear on the screen. Hitting the oval is good and will
 give you an advantage with a bigger ball. Hitting the line is bad and will
 make it more challenging with a much smaller ball.
+
+Good luck and have fun!!
